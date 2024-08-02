@@ -14,6 +14,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
+msgid "Invalid Logfile"
+msgstr "非法日志文件"
+
+msgid "The Logfile you are trying to open does not exist."
+msgstr "尝试打开的日志文件不存在。"
+
+msgid "Failed to parse error from server"
+msgstr "无法从服务器获取解析"
+
+msgid "No data to upload."
+msgstr "无法上传空数据"
+
+#: .\OSCR-UI-main\OSCRUI\app.py:290
+msgid "Collapse Sidebar"
+msgstr "折叠侧边栏"
 
 #: .\OSCR-UI-main\OSCRUI\app.py:290
 msgid "Collapse Sidebar"

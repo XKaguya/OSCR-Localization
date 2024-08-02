@@ -16,6 +16,18 @@ msgstr ""
 "Generated-By: pygettext.py 1.5\n"
 "X-Generator: Poedit 3.4.4\n"
 
+msgid "Invalid Logfile"
+msgstr "Fichier de log invalide"
+
+msgid "The Logfile you are trying to open does not exist."
+msgstr "Le fichier que vous essayez d'ouvrir n'existe pas."
+
+msgid "Failed to parse error from server"
+msgstr "Échec de l'analyse d'erreur du serveur"
+
+msgid "No data to upload."
+msgstr "Aucune donnée à télécharger."
+
 #: .\OSCR-UI-main\OSCRUI\app.py:290
 msgid "Collapse Sidebar"
 msgstr "Barre latérale gauche"
