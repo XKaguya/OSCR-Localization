@@ -14,6 +14,210 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
+msgid "Name"
+msgstr "Name"
+
+msgid "Handle"
+msgstr "Pseudonym"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Build"
+msgstr "Ausrüstung"
+
+#: .\headers.py:9
+msgid "Attacks-in Share"
+msgstr "Anteil eingehender Angriffe"
+
+#: .\headers.py:9 .\headers.py:18
+msgid "Total Damage"
+msgstr "Gesamtschaden"
+
+#: .\headers.py:9 .\headers.py:18 .\headers.py:33
+msgid "DPS"
+msgstr "DPS"
+
+#: .\headers.py:9 .\headers.py:18 .\headers.py:33
+msgid "Debuff"
+msgstr "Abschwächung"
+
+#: .\headers.py:9 .\headers.py:20 .\headers.py:27 .\headers.py:33
+msgid "Combat Time"
+msgstr "Kampfzeit"
+
+#: .\headers.py:10
+msgid "Damage Share"
+msgstr "Schadensanteil"
+
+#: .\headers.py:10
+msgid "Taken Damage Share"
+msgstr "Anteil erlittener Schäden"
+
+#: .\headers.py:10
+msgid "Total Heals"
+msgstr "Gesamte Heilung"
+
+#: .\headers.py:10 .\headers.py:18
+msgid "Max One Hit"
+msgstr "Maximaler Einzelschlag"
+
+#: .\headers.py:10 .\headers.py:18 .\headers.py:27
+msgid "Crit Chance"
+msgstr "Kritische Trefferchance"
+
+#: .\headers.py:10 .\headers.py:33
+msgid "Deaths"
+msgstr "Anzahl der Todesfälle"
+
+#: .\headers.py:11
+msgid "Heal Crit Chance"
+msgstr "Heilung Kritische Trefferchance"
+
+#: .\headers.py:11
+msgid "Heal Share"
+msgstr "Heilungsanteil"
+
+#: .\headers.py:11
+msgid "Total Damage Taken"
+msgstr "Gesamter erlittener Schaden"
+
+#: .\headers.py:11
+msgid "Total Hull Damage Taken"
+msgstr "Gesamter Rumpfschaden"
+
+#: .\headers.py:12
+msgid "Attacks-in Number"
+msgstr "Anzahl der Angriffe"
+
+#: .\headers.py:12
+msgid "Total Attacks"
+msgstr "Gesamtanzahl der Angriffe"
+
+#: .\headers.py:12
+msgid "Total Shield Damage Taken"
+msgstr "Gesamter Schildschaden"
+
+#: .\headers.py:12 .\headers.py:20
+msgid "Hull Attacks"
+msgstr "Rumpfangriffe"
+
+#: .\headers.py:13
+msgid "Crit Number"
+msgstr "Kritische Trefferzahl"
+
+#: .\headers.py:13
+msgid "Heal Crit Number"
+msgstr "Heilungs-Kritische Trefferzahl"
+
+#: .\headers.py:13
+msgid "Heal Number"
+msgstr "Heilungsanzahl"
+
+#: .\headers.py:13 .\headers.py:19
+msgid "Misses"
+msgstr "Verfehlungen"
+
+#: .\headers.py:18
+msgid "Accuracy"
+msgstr "Genauigkeit"
+
+#: .\headers.py:18
+msgid "Flank Rate"
+msgstr "Flankenrate"
+
+#: .\headers.py:19
+msgid "Attacks"
+msgstr "Angriffe"
+
+#: .\headers.py:19
+msgid "Critical Hits"
+msgstr "Kritische Treffer"
+
+#: .\headers.py:19
+msgid "Flank Hits"
+msgstr "Flankentreffer"
+
+#: .\headers.py:19
+msgid "Shield DPS"
+msgstr "Schild DPS"
+
+#: .\headers.py:19
+msgid "Shield Damage"
+msgstr "Schildschaden"
+
+#: .\headers.py:19 .\headers.py:33
+msgid "Kills"
+msgstr "Tötungen"
+
+#: .\headers.py:20
+msgid "Base DPS"
+msgstr "Basis DPS"
+
+#: .\headers.py:20
+msgid "Base Damage"
+msgstr "Basisschaden"
+
+#: .\headers.py:20
+msgid "Hull DPS"
+msgstr "Rumpf DPS"
+
+#: .\headers.py:20
+msgid "Hull Damage"
+msgstr "Rumpfschaden"
+
+#: .\headers.py:21
+msgid "Shield Attacks"
+msgstr "Schildangriffe"
+
+#: .\headers.py:26
+msgid "Hull HPS"
+msgstr "Rumpf HPS"
+
+#: .\headers.py:26
+msgid "Hull Heal"
+msgstr "Rumpfheilung"
+
+#: .\headers.py:26
+msgid "Shield HPS"
+msgstr "Schild HPS"
+
+#: .\headers.py:26
+msgid "Shield Heal"
+msgstr "Schildheilung"
+
+#: .\headers.py:26
+msgid "Total Heal"
+msgstr "Gesamte Heilung"
+
+#: .\headers.py:26 .\headers.py:33
+msgid "HPS"
+msgstr "HPS"
+
+#: .\headers.py:27
+msgid "Critical Heals"
+msgstr "Kritische Heilungen"
+
+#: .\headers.py:27
+msgid "Heal Ticks"
+msgstr "Heilungsimpulse"
+
+#: .\headers.py:27
+msgid "Hull Heal Ticks"
+msgstr "Rumpfheilungsimpulse"
+
+#: .\headers.py:27
+msgid "Max One Heal"
+msgstr "Maximale Einzelheilung"
+
+#: .\headers.py:28
+msgid "Shield Heal Ticks"
+msgstr "Schildheilungsimpulse"
+
+#: .\headers.py:33
+msgid "Attacks-in"
+msgstr "Eingehende Angriffe"
+
 msgid "Invalid Logfile"
 msgstr "Ungültiges Logfile"
 
