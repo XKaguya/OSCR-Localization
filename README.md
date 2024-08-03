@@ -1,7 +1,7 @@
 # OSCR-Localization
 OSCR-Localization repo.
 
-# Usage
+# Usage (Currently)
 
 Fork this repo if you want correct or add new languages.
 
